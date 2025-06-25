@@ -12,6 +12,9 @@ public class HelloWorld1 {
         System.out.println("La suma de" + a + "+" + b + "es igual a:" + suma);
 
         System.out.println("La multiplicación de: "+ a + "*" + b + " es " + multiplicación);
+
+        System.out.println("Mauricio Javier Hernandez Solorzano");
+        System.out.println("2025-0200U");
         
     }
 }
